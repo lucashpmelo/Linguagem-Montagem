@@ -1,0 +1,42 @@
+MPLINK 4.41, Linker
+Linker Map File - Created Fri Apr 24 09:45:14 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000004    program   0x000082
+     .config_2007_PROJ1.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000001      
+                            0x000004    0x000044      
+                            0x002007    0x002007      
+            68 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    delay   0x000036    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                  delay_0   0x00003c    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                     loop   0x00001c    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                     main   0x000010    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000010    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                     loop   0x00001c    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                    delay   0x000036    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+                  delay_0   0x00003c    program     static E:\Projetos_ASM\Proj1.2\Proj1.ASM
+
+

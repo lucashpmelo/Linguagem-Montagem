@@ -1,0 +1,4 @@
+Warning[205] E:\PROJETOS_ASM\PROJ5\16F877ATEMP.ASM 52 : Found directive in column 1. (cblock)
+Warning[202] E:\PROJETOS_ASM\PROJ5\16F877ATEMP.ASM 101 : Argument out of range.  Least significant bits used.
+Message[305] E:\PROJETOS_ASM\PROJ5\16F877ATEMP.ASM 106 : Using default destination of 1 (file).
+Warning[202] E:\PROJETOS_ASM\PROJ5\16F877ATEMP.ASM 108 : Argument out of range.  Least significant bits used.

@@ -1,0 +1,38 @@
+MPLINK 4.41, Linker
+Linker Map File - Created Fri Mar 27 08:40:32 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000004    program   0x000030
+.config_2007_16F877ATEMP.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000001      
+                            0x000004    0x00001b      
+                            0x002007    0x002007      
+            27 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000010    program     static E:\Projetos_ASM\Proj3\16F877ATEMP.ASM
+               multiplica   0x000017    program     static E:\Projetos_ASM\Proj3\16F877ATEMP.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000010    program     static E:\Projetos_ASM\Proj3\16F877ATEMP.ASM
+               multiplica   0x000017    program     static E:\Projetos_ASM\Proj3\16F877ATEMP.ASM
+
+

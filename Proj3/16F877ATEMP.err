@@ -1,0 +1,5 @@
+Warning[205] E:\PROJETOS_ASM\PROJ3\16F877ATEMP.ASM 52 : Found directive in column 1. (cblock)
+Message[305] E:\PROJETOS_ASM\PROJ3\16F877ATEMP.ASM 92 : Using default destination of 1 (file).
+Warning[207] E:\PROJETOS_ASM\PROJ3\16F877ATEMP.ASM 97 : Found label after column 1. (multiplica)
+Message[305] E:\PROJETOS_ASM\PROJ3\16F877ATEMP.ASM 99 : Using default destination of 1 (file).
+Message[305] E:\PROJETOS_ASM\PROJ3\16F877ATEMP.ASM 100 : Using default destination of 1 (file).
